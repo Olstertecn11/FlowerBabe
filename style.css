@@ -1205,3 +1205,18 @@ body {
   bottom: 1%;
   left: 50%;
 }
+
+.card-text {
+  position: absolute;
+  top: 10%;
+  font-family: 'Great Vibes', cursive;
+  font-size: 4vw;
+}
+
+.card-text>p {
+  justify-content: center;
+  text-align: justify;
+  color: #979738;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
